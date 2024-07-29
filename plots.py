@@ -115,5 +115,5 @@ if __name__ == "__main__":
 
     plt.xticks(rotation=45)
     plt.tight_layout()
-    plt.show()
     plt.savefig('allocated_orders_per_day.png')
+    plt.show()

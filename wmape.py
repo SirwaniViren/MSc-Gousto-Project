@@ -74,5 +74,5 @@ if __name__ == "__main__":
     plt.legend()
     plt.gca().invert_xaxis()  # Invert x-axis to have 0 at the end
     plt.tight_layout()
-    plt.show()
     plt.savefig('wmape.png')
+    plt.show()
