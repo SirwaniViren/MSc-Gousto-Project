@@ -5,6 +5,7 @@ import json
 
 class OrderGenerator:
 
+
     @staticmethod
     def create_eligibility_dict(num_factories, num_items):
         items = list(range(100, 100 + num_items * 10, 10))
@@ -24,6 +25,19 @@ class OrderGenerator:
                 # Ensure num_eligible_items does not exceed the total number of items
                 num_eligible_items = min(num_eligible_items, num_items)
 
+        return eligibility_dict
+
+
+    @staticmethod
+    def save_eligibility_dict(eligibility_dict, filename):
+        with open(filename, 'w') as file:
+            json.dump(eligibility_dict, file)
+
+
+    @staticmethod
+    def load_eligibility_dict(filename):
+        with open(filename, 'r') as file:
+            eligibility_dict = json.load(file)
         return eligibility_dict
 
 
@@ -49,6 +63,8 @@ class OrderGenerator:
 
     @staticmethod
     def save_factory_caps(factory_caps, filename):
+        # Convert float('inf') to a string 'Infinity' for JSON compatibility
+        factory_caps = {k: ('Infinity' if v == float('inf') else v) for k, v in factory_caps.items()}
         with open(filename, 'w') as file:
             json.dump(factory_caps, file)
 
@@ -57,6 +73,8 @@ class OrderGenerator:
     def load_factory_caps(filename):
         with open(filename, 'r') as file:
             factory_caps = json.load(file)
+        # Convert the string 'Infinity' back to float('inf')
+        factory_caps = {k: (float('inf') if v == 'Infinity' else v) for k, v in factory_caps.items()}
         return factory_caps
 
 
@@ -157,6 +175,7 @@ if __name__ == "__main__":
     factory_caps = OrderGenerator.create_factory_caps(num_factories, 100)
     OrderGenerator.save_factory_caps(factory_caps, 'factory_caps.json')
     eligibility_dict = OrderGenerator.create_eligibility_dict(num_factories, num_items)
+    OrderGenerator.save_eligibility_dict(eligibility_dict, 'eligibility_dict.json')
 
     # Loop through lead days from 18 to 0
     for lead_day in range(18, -1, -1):
