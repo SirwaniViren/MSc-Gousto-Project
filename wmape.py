@@ -7,7 +7,7 @@ class WMAPE:
 
     @staticmethod
     def calculate_wmape_site(merged_df, soft_col, hard_col):
-        total_forecast = merged_df["lead_0"].sum()
+        total_forecast = merged_df[hard_col].sum()
         site_df = merged_df.copy()
         site_df['abs_error'] = (site_df[soft_col] - site_df[hard_col]).abs()
 
@@ -19,7 +19,7 @@ class WMAPE:
 
     @staticmethod
     def calculate_wmape_global(merged_df, soft_col, hard_col):
-        total_forecast = merged_df["lead_0"].sum()
+        total_forecast = merged_df[hard_col].sum()
         global_df = merged_df.copy()
         global_df = global_df.groupby('item_id').sum().reset_index()
         global_df['abs_error'] = (global_df[soft_col] - global_df[hard_col]).abs()
