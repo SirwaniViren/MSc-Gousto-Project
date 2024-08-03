@@ -179,7 +179,7 @@ if __name__ == "__main__":
 
     # Loop through lead days from 18 to 0
     for lead_day in range(18, -1, -1):
-        num_real_orders, num_simulated_orders = OrderGenerator.generate_total_boxes(factory_caps, 1000, 2000, lead_day)
+        num_real_orders, num_simulated_orders = OrderGenerator.generate_total_boxes(factory_caps, 700, 1000, lead_day)
         orders_df = OrderGenerator.generate_orders(num_real_orders, num_simulated_orders, num_items)
         orders_eligibility_df = OrderGenerator.compute_orders_eligibility(orders_df, eligibility_dict)
 
