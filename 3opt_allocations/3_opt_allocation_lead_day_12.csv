@@ -87,7 +87,7 @@ order_id,item_id,order_type,site
 28,440,real,F19
 29,540,real,F20
 29,260,real,F20
-29,990,real,F19
+29,990,real,F20
 29,720,real,F20
 29,840,real,F20
 30,460,real,F13
@@ -148,7 +148,7 @@ order_id,item_id,order_type,site
 50,510,real,F16
 50,850,real,F16
 51,1090,real,F20
-51,930,real,F20
+51,930,real,F19
 51,750,real,F20
 51,1010,real,F20
 52,540,real,F13
@@ -156,7 +156,7 @@ order_id,item_id,order_type,site
 52,440,real,F13
 52,510,real,F13
 53,140,real,F6
-54,340,real,F18
+54,340,real,F20
 54,250,real,F20
 54,870,real,F20
 54,220,real,F20
@@ -170,7 +170,7 @@ order_id,item_id,order_type,site
 57,480,real,F18
 57,860,real,F18
 57,1060,real,F18
-58,760,real,F20
+58,760,real,F19
 58,990,real,F19
 58,470,real,F19
 59,350,real,F17
@@ -277,7 +277,7 @@ order_id,item_id,order_type,site
 89,1060,real,F20
 89,400,real,F20
 90,890,real,F20
-90,270,real,F18
+90,270,real,F20
 90,120,real,F20
 90,260,real,F20
 90,560,real,F20
@@ -338,7 +338,7 @@ order_id,item_id,order_type,site
 109,400,real,F19
 109,740,real,F19
 109,370,real,F19
-109,1070,real,F20
+109,1070,real,F19
 110,340,real,F20
 110,500,real,F20
 110,720,real,F20
@@ -360,7 +360,7 @@ order_id,item_id,order_type,site
 115,670,real,F20
 115,870,real,F20
 116,570,real,F15
-116,200,real,F14
+116,200,real,F15
 117,1060,real,F20
 117,1040,real,F20
 117,1020,real,F20
@@ -600,7 +600,7 @@ order_id,item_id,order_type,site
 186,270,real,F12
 186,100,real,F12
 186,670,real,F12
-187,210,real,F13
+187,210,real,F20
 187,770,real,F20
 187,390,real,F20
 187,160,real,F20
@@ -739,7 +739,7 @@ order_id,item_id,order_type,site
 228,800,real,F14
 229,160,real,F20
 229,860,real,F20
-229,390,real,F20
+229,390,real,F19
 229,1060,real,F20
 229,440,real,F20
 230,680,real,F20
@@ -817,7 +817,7 @@ order_id,item_id,order_type,site
 253,780,real,F20
 253,740,real,F20
 253,870,real,F20
-253,590,real,F20
+253,590,real,F16
 254,500,real,F9
 255,640,real,F16
 255,160,real,F16
@@ -868,7 +868,7 @@ order_id,item_id,order_type,site
 271,160,real,F20
 271,1060,real,F20
 272,780,real,F19
-272,710,real,F19
+272,710,real,F20
 273,700,real,F20
 273,1060,real,F20
 274,100,real,F5
@@ -959,7 +959,7 @@ order_id,item_id,order_type,site
 300,940,real,F19
 300,860,real,F19
 300,170,real,F19
-300,150,real,F20
+300,150,real,F19
 300,480,real,F19
 301,710,real,F19
 301,300,real,F19
@@ -981,7 +981,7 @@ order_id,item_id,order_type,site
 306,750,real,F20
 306,230,real,F20
 306,1080,real,F20
-306,570,real,F20
+306,570,real,F19
 306,840,real,F20
 307,270,real,F15
 307,730,real,F15
@@ -1294,7 +1294,7 @@ order_id,item_id,order_type,site
 408,540,real,F12
 409,440,real,F11
 410,510,real,F20
-410,420,real,F20
+410,420,real,F19
 410,650,real,F20
 410,1030,real,F20
 410,870,real,F20
@@ -1308,7 +1308,7 @@ order_id,item_id,order_type,site
 412,310,real,F20
 413,160,real,F20
 413,850,real,F20
-414,890,real,F16
+414,890,real,F19
 415,1090,real,F20
 415,1000,real,F20
 415,110,real,F20
@@ -1355,7 +1355,7 @@ order_id,item_id,order_type,site
 429,590,real,F20
 430,310,real,F6
 431,750,real,F20
-431,130,real,F14
+431,130,real,F20
 431,140,real,F20
 432,270,real,F20
 432,870,real,F20
@@ -1445,7 +1445,7 @@ order_id,item_id,order_type,site
 460,210,real,F20
 460,180,real,F20
 460,700,real,F20
-461,800,real,F20
+461,800,real,F18
 461,470,real,F18
 461,830,real,F18
 461,300,real,F18
@@ -1519,7 +1519,7 @@ order_id,item_id,order_type,site
 486,290,real,F8
 487,460,real,F18
 487,780,real,F18
-488,920,real,F20
+488,920,real,F19
 489,340,real,F8
 490,190,real,F20
 490,180,real,F20
@@ -1688,9 +1688,9 @@ order_id,item_id,order_type,site
 545,360,real,F18
 545,160,real,F18
 545,460,real,F18
-545,250,real,F18
-545,990,real,F18
-546,540,real,F19
+545,250,real,F20
+545,990,real,F20
+546,540,real,F20
 546,1060,real,F19
 546,940,real,F19
 547,360,real,F20
@@ -1787,7 +1787,7 @@ order_id,item_id,order_type,site
 576,190,real,F17
 576,420,real,F17
 577,580,real,F20
-577,440,real,F18
+577,440,real,F20
 577,1040,real,F20
 577,690,real,F20
 578,960,real,F20
@@ -1935,11 +1935,11 @@ order_id,item_id,order_type,site
 625,910,real,F20
 625,480,real,F20
 625,230,real,F20
-625,950,real,F19
+625,950,real,F20
 625,1040,real,F20
 626,900,real,F18
 627,120,real,F14
-627,740,real,F20
+627,740,real,F14
 627,730,real,F14
 627,300,real,F14
 627,540,real,F14
@@ -1975,11 +1975,11 @@ order_id,item_id,order_type,site
 636,600,real,F11
 637,440,real,F9
 638,1060,real,F18
-638,690,real,F20
+638,690,real,F18
 638,1030,real,F18
 638,850,real,F18
-638,280,real,F20
-639,580,real,F20
+638,280,real,F18
+639,580,real,F19
 639,140,real,F19
 639,1010,real,F19
 639,690,real,F19
@@ -2004,7 +2004,7 @@ order_id,item_id,order_type,site
 645,670,real,F12
 645,510,real,F12
 645,640,real,F12
-646,860,real,F19
+646,860,real,F20
 646,920,real,F19
 646,340,real,F19
 646,550,real,F19
@@ -2123,14 +2123,14 @@ order_id,item_id,order_type,site
 678,200,real,F5
 679,220,real,F6
 679,270,real,F6
-680,310,real,F20
+680,310,real,F19
 680,700,real,F19
 680,960,real,F19
 681,460,real,F20
 681,200,real,F20
 681,310,real,F20
 681,110,real,F20
-681,570,real,F19
+681,570,real,F20
 682,300,real,F20
 682,380,real,F20
 682,250,real,F20
@@ -2338,7 +2338,7 @@ order_id,item_id,order_type,site
 745,700,simulated,F20
 745,800,simulated,F20
 746,510,simulated,F20
-746,980,simulated,F19
+746,980,simulated,F20
 746,200,simulated,F20
 746,660,simulated,F20
 747,430,simulated,F20
@@ -2486,7 +2486,7 @@ order_id,item_id,order_type,site
 794,590,simulated,F19
 794,200,simulated,F19
 794,1010,simulated,F19
-794,920,simulated,F20
+794,920,simulated,F19
 795,760,simulated,F14
 796,570,simulated,F12
 796,230,simulated,F12
@@ -2549,7 +2549,7 @@ order_id,item_id,order_type,site
 813,220,simulated,F16
 814,640,simulated,F12
 815,900,simulated,F19
-815,800,simulated,F16
+815,800,simulated,F19
 815,750,simulated,F19
 816,920,simulated,F20
 816,1010,simulated,F20
@@ -2617,7 +2617,7 @@ order_id,item_id,order_type,site
 838,170,simulated,F5
 839,890,simulated,F20
 839,210,simulated,F20
-840,820,simulated,F19
+840,820,simulated,F20
 840,840,simulated,F20
 840,180,simulated,F20
 840,1020,simulated,F20
@@ -2681,7 +2681,7 @@ order_id,item_id,order_type,site
 860,680,simulated,F20
 860,980,simulated,F20
 861,270,simulated,F18
-861,690,simulated,F20
+861,690,simulated,F18
 861,890,simulated,F18
 861,930,simulated,F18
 861,230,simulated,F18
@@ -2768,7 +2768,7 @@ order_id,item_id,order_type,site
 888,1040,simulated,F20
 889,860,simulated,F20
 890,370,simulated,F16
-890,520,simulated,F19
+890,520,simulated,F16
 890,610,simulated,F16
 891,380,simulated,F6
 892,400,simulated,F13
@@ -2783,7 +2783,7 @@ order_id,item_id,order_type,site
 894,890,simulated,F20
 894,730,simulated,F20
 894,330,simulated,F20
-894,430,simulated,F20
+894,430,simulated,F18
 895,550,simulated,F20
 895,230,simulated,F20
 895,1040,simulated,F20
@@ -2893,7 +2893,7 @@ order_id,item_id,order_type,site
 927,810,simulated,F20
 928,780,simulated,F20
 928,750,simulated,F20
-928,260,simulated,F19
+928,260,simulated,F20
 928,440,simulated,F20
 928,1060,simulated,F20
 929,950,simulated,F20
@@ -3036,7 +3036,7 @@ order_id,item_id,order_type,site
 972,600,simulated,F20
 972,960,simulated,F20
 973,280,simulated,F14
-973,490,simulated,F11
+973,490,simulated,F14
 973,420,simulated,F14
 973,510,simulated,F14
 973,220,simulated,F14
@@ -3105,7 +3105,7 @@ order_id,item_id,order_type,site
 993,430,simulated,F20
 994,580,simulated,F17
 994,940,simulated,F17
-995,1030,simulated,F20
+995,1030,simulated,F18
 995,690,simulated,F18
 995,290,simulated,F18
 996,190,simulated,F20
@@ -3189,7 +3189,7 @@ order_id,item_id,order_type,site
 1021,250,simulated,F19
 1021,180,simulated,F19
 1021,600,simulated,F19
-1021,810,simulated,F20
+1021,810,simulated,F19
 1022,290,simulated,F2
 1022,790,simulated,F2
 1022,760,simulated,F2
@@ -3466,7 +3466,7 @@ order_id,item_id,order_type,site
 1105,1070,simulated,F20
 1105,810,simulated,F20
 1105,1000,simulated,F20
-1105,620,simulated,F19
+1105,620,simulated,F20
 1106,390,simulated,F17
 1106,910,simulated,F17
 1106,270,simulated,F17
@@ -3519,7 +3519,7 @@ order_id,item_id,order_type,site
 1120,940,simulated,F20
 1120,550,simulated,F20
 1121,400,simulated,F19
-1121,880,simulated,F19
+1121,880,simulated,F18
 1122,560,simulated,F12
 1122,510,simulated,F12
 1122,470,simulated,F12
@@ -3780,7 +3780,7 @@ order_id,item_id,order_type,site
 1212,970,simulated,F20
 1213,1010,simulated,F20
 1213,610,simulated,F20
-1213,680,simulated,F19
+1213,680,simulated,F20
 1214,610,simulated,F20
 1214,1070,simulated,F20
 1214,800,simulated,F20
@@ -3810,7 +3810,7 @@ order_id,item_id,order_type,site
 1223,580,simulated,F10
 1224,350,simulated,F19
 1224,340,simulated,F19
-1224,790,simulated,F20
+1224,790,simulated,F19
 1225,440,simulated,F13
 1225,660,simulated,F13
 1225,100,simulated,F13
@@ -3825,7 +3825,7 @@ order_id,item_id,order_type,site
 1228,830,simulated,F20
 1228,420,simulated,F20
 1228,360,simulated,F20
-1229,840,simulated,F19
+1229,840,simulated,F16
 1229,110,simulated,F16
 1229,690,simulated,F16
 1229,790,simulated,F16
@@ -3861,7 +3861,7 @@ order_id,item_id,order_type,site
 1239,940,simulated,F20
 1240,950,simulated,F19
 1240,440,simulated,F19
-1240,700,simulated,F19
+1240,700,simulated,F20
 1240,1090,simulated,F19
 1241,210,simulated,F20
 1241,360,simulated,F20
@@ -3961,7 +3961,7 @@ order_id,item_id,order_type,site
 1276,590,simulated,F18
 1276,140,simulated,F18
 1276,200,simulated,F18
-1276,1000,simulated,F20
+1276,1000,simulated,F18
 1277,460,simulated,F9
 1277,140,simulated,F9
 1277,470,simulated,F9
@@ -3969,7 +3969,7 @@ order_id,item_id,order_type,site
 1278,690,simulated,F14
 1278,680,simulated,F14
 1278,780,simulated,F14
-1279,510,simulated,F13
+1279,510,simulated,F12
 1279,230,simulated,F12
 1279,260,simulated,F12
 1279,320,simulated,F12
@@ -4010,7 +4010,7 @@ order_id,item_id,order_type,site
 1291,170,simulated,F7
 1291,160,simulated,F7
 1292,260,simulated,F6
-1293,910,simulated,F16
+1293,910,simulated,F20
 1294,330,simulated,F8
 1294,450,simulated,F8
 1295,100,simulated,F5
@@ -4113,7 +4113,7 @@ order_id,item_id,order_type,site
 1325,550,simulated,F13
 1325,370,simulated,F13
 1325,330,simulated,F13
-1325,770,simulated,F20
+1325,770,simulated,F13
 1326,670,simulated,F13
 1327,430,simulated,F18
 1327,230,simulated,F18
@@ -4405,10 +4405,10 @@ order_id,item_id,order_type,site
 1426,900,simulated,F2
 1426,260,simulated,F2
 1427,630,simulated,F13
-1427,420,simulated,F12
+1427,420,simulated,F13
 1427,550,simulated,F13
 1428,410,simulated,F18
-1428,170,simulated,F18
+1428,170,simulated,F20
 1428,1020,simulated,F18
 1428,800,simulated,F18
 1429,220,simulated,F20
@@ -4558,7 +4558,7 @@ order_id,item_id,order_type,site
 1475,850,simulated,F20
 1476,410,simulated,F14
 1476,390,simulated,F14
-1476,740,simulated,F13
+1476,740,simulated,F14
 1476,340,simulated,F14
 1476,260,simulated,F14
 1477,800,simulated,F20
@@ -4569,7 +4569,7 @@ order_id,item_id,order_type,site
 1478,560,simulated,F16
 1478,520,simulated,F16
 1478,720,simulated,F16
-1479,720,simulated,F19
+1479,720,simulated,F20
 1479,970,simulated,F20
 1479,660,simulated,F20
 1479,130,simulated,F20
@@ -4636,7 +4636,7 @@ order_id,item_id,order_type,site
 1498,1010,simulated,F20
 1498,250,simulated,F20
 1499,750,simulated,F19
-1499,470,simulated,F19
+1499,470,simulated,F20
 1499,450,simulated,F19
 1499,570,simulated,F19
 1500,320,simulated,F20
@@ -4811,7 +4811,7 @@ order_id,item_id,order_type,site
 1555,830,simulated,F15
 1555,410,simulated,F15
 1556,150,simulated,F20
-1556,470,simulated,F20
+1556,470,simulated,F18
 1556,1060,simulated,F20
 1556,870,simulated,F20
 1556,260,simulated,F20
@@ -5155,7 +5155,7 @@ order_id,item_id,order_type,site
 1671,830,simulated,F15
 1671,330,simulated,F15
 1672,110,simulated,F20
-1672,650,simulated,F20
+1672,650,simulated,F18
 1672,350,simulated,F20
 1673,480,simulated,F8
 1673,380,simulated,F8
@@ -5264,7 +5264,7 @@ order_id,item_id,order_type,site
 1706,720,simulated,F14
 1707,470,simulated,F20
 1707,740,simulated,F20
-1707,510,simulated,F19
+1707,510,simulated,F20
 1707,170,simulated,F20
 1707,1080,simulated,F20
 1708,500,simulated,F20
@@ -5308,7 +5308,7 @@ order_id,item_id,order_type,site
 1719,550,simulated,F17
 1719,650,simulated,F17
 1720,710,simulated,F20
-1720,840,simulated,F18
+1720,840,simulated,F20
 1720,800,simulated,F20
 1721,270,simulated,F17
 1721,860,simulated,F17
@@ -5448,7 +5448,7 @@ order_id,item_id,order_type,site
 1766,880,simulated,F18
 1766,230,simulated,F18
 1766,1010,simulated,F18
-1766,170,simulated,F18
+1766,170,simulated,F19
 1767,260,simulated,F20
 1767,860,simulated,F20
 1767,680,simulated,F20
@@ -5588,7 +5588,7 @@ order_id,item_id,order_type,site
 1813,660,simulated,F14
 1813,770,simulated,F14
 1814,1010,simulated,F20
-1815,260,simulated,F18
+1815,260,simulated,F20
 1815,640,simulated,F20
 1816,920,simulated,F20
 1816,900,simulated,F20
@@ -5640,7 +5640,7 @@ order_id,item_id,order_type,site
 1835,100,simulated,F19
 1835,1050,simulated,F19
 1835,990,simulated,F19
-1835,230,simulated,F20
+1835,230,simulated,F19
 1836,650,simulated,F14
 1836,570,simulated,F14
 1836,480,simulated,F14
@@ -5671,7 +5671,7 @@ order_id,item_id,order_type,site
 1846,440,simulated,F8
 1847,810,simulated,F15
 1848,860,simulated,F20
-1848,520,simulated,F20
+1848,520,simulated,F19
 1848,190,simulated,F20
 1849,1090,simulated,F20
 1849,900,simulated,F20
@@ -5882,13 +5882,13 @@ order_id,item_id,order_type,site
 1926,640,simulated,F12
 1927,800,simulated,F20
 1927,820,simulated,F20
-1928,480,simulated,F15
+1928,480,simulated,F11
 1928,420,simulated,F11
 1929,160,simulated,F3
 1930,350,simulated,F8
 1931,750,simulated,F20
 1931,800,simulated,F20
-1931,400,simulated,F20
+1931,400,simulated,F18
 1931,1000,simulated,F20
 1931,180,simulated,F20
 1932,1000,simulated,F20
@@ -6112,7 +6112,7 @@ order_id,item_id,order_type,site
 1999,810,simulated,F18
 2000,150,simulated,F16
 2000,290,simulated,F16
-2000,600,simulated,F20
+2000,600,simulated,F16
 2001,870,simulated,F20
 2001,890,simulated,F20
 2001,690,simulated,F20
@@ -6134,7 +6134,7 @@ order_id,item_id,order_type,site
 2006,270,simulated,F7
 2007,780,simulated,F16
 2007,850,simulated,F16
-2007,120,simulated,F16
+2007,120,simulated,F20
 2007,820,simulated,F16
 2007,880,simulated,F16
 2008,1010,simulated,F20
@@ -6204,7 +6204,7 @@ order_id,item_id,order_type,site
 2032,900,simulated,F20
 2033,430,simulated,F13
 2033,760,simulated,F13
-2033,700,simulated,F14
+2033,700,simulated,F13
 2034,280,simulated,F20
 2034,550,simulated,F20
 2034,1010,simulated,F20
@@ -6316,7 +6316,7 @@ order_id,item_id,order_type,site
 2069,200,simulated,F20
 2069,780,simulated,F20
 2069,990,simulated,F20
-2070,790,simulated,F18
+2070,790,simulated,F20
 2071,260,simulated,F12
 2071,540,simulated,F12
 2071,590,simulated,F12
@@ -6557,7 +6557,7 @@ order_id,item_id,order_type,site
 2148,100,simulated,F20
 2149,150,simulated,F18
 2149,890,simulated,F18
-2149,190,simulated,F18
+2149,190,simulated,F20
 2149,770,simulated,F18
 2149,310,simulated,F18
 2150,470,simulated,F8
